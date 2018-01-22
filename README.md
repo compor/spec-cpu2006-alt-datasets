@@ -1,2 +1,4 @@
-# spec-cpu2006-alt-datasets
-alternative dataset collection for SPEC CPU2006
+# SPEC CPU2006 Alternative Datasets
+
+A collection of alternative datasets for SPEC CPU2006.
+
